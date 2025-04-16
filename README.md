@@ -20,7 +20,13 @@ This project is a **dynamic and interactive Power BI dashboard** built to visual
 - CSV/Excel/SQL data sources (based on imported data)
 
 ## 📊 Dashboard Snapshots
-> *Add screenshots of your dashboard here once you upload them*
+
+### 📌 IPL Overview
+![IPL Overview](https://github.com/HarshalRasane21/Power_BI_DashBoard/blob/main/Power_BI%20Dashboard/Screen%20Shots/Screenshot%202025-04-16%20122446.png?raw=true)
+
+### 🌟 Player Stats
+![Player Stats](https://github.com/HarshalRasane21/Power_BI_DashBoard/blob/main/Power_BI%20Dashboard/Screen%20Shots/Screenshot%202025-04-16%20123315.png?raw=true)
+
 
 ## 🚀 How to Use
 1. Open the `.pbix` file in Power BI Desktop.
@@ -33,18 +39,5 @@ This project is a **dynamic and interactive Power BI dashboard** built to visual
 - Sports analytics portfolio projects
 - Practice for Power BI and data visualization skills
 
-## 📈 Future Improvements
-- Add season comparison between multiple years
-- Incorporate live data (via API integration)
-- Drill-through pages for deeper player insights
-
-## 📬 Contact
-For any questions or collaboration opportunities, feel free to reach out!
-
 ---
 
-### 📌 IPL Overview
-![IPL Overview](https://github.com/HarshalRasane21/Power_BI_DashBoard/blob/main/Power_BI%20Dashboard/Screen%20Shots/Screenshot%202025-04-16%20122446.png?raw=true)
-
-### 🌟 Player Stats
-![Player Stats](https://github.com/HarshalRasane21/Power_BI_DashBoard/blob/main/Power_BI%20Dashboard/Screen%20Shots/Screenshot%202025-04-16%20123315.png?raw=true)
