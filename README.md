@@ -44,4 +44,7 @@ For any questions or collaboration opportunities, feel free to reach out!
 ---
 
 ### 📌 IPL Overview
-![IPL Overview](assets/overview.png)
+![IPL Overview](https://github.com/HarshalRasane21/Power_BI_DashBoard/blob/main/Power_BI%20Dashboard/Screen%20Shots/Screenshot%202025-04-16%20122446.png?raw=true)
+
+### 🌟 Player Stats
+![Player Stats](assets/player_stats.png)
